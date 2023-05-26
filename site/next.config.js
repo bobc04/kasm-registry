@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Kasm OSINT Demo',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://bob04.github.io/kasm-registry',
+    contactUrl: 'https://github.com/bob04/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
